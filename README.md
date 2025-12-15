@@ -24,7 +24,47 @@ Cada operación incluye validación de entradas, manejo de errores y formato pro
 ```python
 def menu()
 ```
+#### Muestra el menú de opciones disponibles.
+```python
+def consultar_saldo(Saldo)
+```
+#### Muestra el saldo actual con formato monetario.
+```python
+def depositar(Saldo)
+```
+#### Permite depositar dinero con validación de montos positivos.
+```python
+def retirar(Saldo)
+```
+#### Permite retirar dinero con validación de fondos disponibles.
+```python
+def main()
+```
+#### Función principal que coordina todo el flujo del programa.
 
+## Instalación y Ejecución
+### Requisitos
+- Python 3.8 o superior
+- Terminal o línea de comandos
+### Ejecución directa
+```bash
+# Clonar el repositorio (opcional)
+git clone https://github.com/tuusuario/cajero-python.git
+cd cajero-python
+
+# Ejecutar el programa
+python cajero.py
+```
+### Tecnologias
+- Python 3 - Lenguaje principal
+
+- Manejo de excepciones - Validación robusta con try/except
+
+- Funciones modulares - Separación de responsabilidades
+
+- Formato de strings - f-strings para salida formateada
+
+- Control de flujo - Bucles while y condicionales if/elif/else
 
 ## Estructura del Proyecto
 - `main()` controla el flujo del programa.
