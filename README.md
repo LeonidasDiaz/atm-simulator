@@ -1,7 +1,14 @@
-# Simulador de Cajero Automático en Python
+# Cajero Automático en Python
 
-Una simulación de cajero automático desarrollada en Python con menú interactivo, manejo de saldo, depósitos, retiros y validación de errores.
+Simulación de cajero automático con menú interactivo, manejo de saldo, depósitos, retiros y validación de errores.
+
 ## Tabla de Contenidos
+- [Descripcion](#descripcion)
+- [Características](#características)
+- [Instalacion](#instalacion)
+- [Uso](#uso)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Tecnollogias Utilizadas](#tecnologias-utilizadas)
 ## Descripción
 Este proyecto simula las operaciones básicas de un cajero automático:
 - Consultar saldo disponible
