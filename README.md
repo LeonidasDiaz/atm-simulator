@@ -9,6 +9,7 @@ Simulación de cajero automático con menú interactivo, manejo de saldo, depós
 - [Uso](#uso)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Tecnollogias Utilizadas](#tecnologias-utilizadas)
+- [Autor](#autor)
 ## Descripción
 Este proyecto simula las operaciones básicas de un cajero automático:
 - Consultar saldo disponible
